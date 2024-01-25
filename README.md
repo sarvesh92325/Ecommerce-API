@@ -220,13 +220,3 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- CONTACT -->
-## Contact
-
-Twitter - [@Mahmoud03203227](https://twitter.com/Mahmoud03203227)
-
-Email - [mle.mahmoud.yasser@gmail.com]()
-
-Facebook - [MahmoudYasserMLE](https://www.facebook.com/MahmoudYasserMLE/)
-
-Project: [https://github.com/Braineanear/EcommerceAPI](https://github.com/Braineanear/EcommerceAPI)
